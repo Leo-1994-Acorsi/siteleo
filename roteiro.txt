@@ -1,0 +1,32 @@
+organizar as pastas do site
+
+estrutura:
+
+assets
+    css
+    img 
+    js
+    mov
+
+dist
+
+site    
+    content
+    docs
+    index.html
+        contato.html - pagina web
+        sobre.html
+        hobby.html
+
+****** Download
+link - para baixar o git
+https://git-scm.com/dowloads
+depois de baixar - botão direito do mouse git bash here
+
+html - conteudo
+css - estilização - beleza
+js - ações - comportamental
+Bootstrap (HTML+CSS)
+
+ <!-- comentario --> para inserir um comentário no arquivo html e não aparecer na página
+ 
